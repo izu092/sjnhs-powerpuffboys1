@@ -1,0 +1,66 @@
+body {
+    background-image:url(650970.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    text-align: center;
+    margin-top: 150px;
+}
+
+h1 {
+    color:aqua;
+    font-size: 50px;
+}
+
+h3 {
+    color: fuchsia;
+    font-size: 30px;
+}
+
+h2 {
+    color: crimson;
+    font-size: 20px;
+}
+
+label {
+    color:tomato;
+}
+
+input {
+    height: 25px;
+    width: 400px;
+    border-radius:8px;
+    font-size:25px;
+    font-family: Monospace;
+    font-weight: bold;
+}
+
+a {
+    margin-top: 30px;
+}
+
+.btn {
+    font-size: medium;
+    color: darkgreen;
+    height: 50px;
+    border-radius: 10px;
+    background-color:pink;
+    width: 150px;
+
+
+}
+
+.btn2 {
+    font-size: medium;
+    color: blue;
+  
+    border-radius: 10px;
+    background-color: lightgreen;
+    width: 150px;
+    height: 50px;
+ 
+}
+
+a{
+    color: lightskyblue;
+}

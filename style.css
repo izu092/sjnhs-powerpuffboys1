@@ -1,0 +1,83 @@
+table tr td {
+    padding: 20px;
+    
+}
+
+
+button{
+    padding: 10px;
+    color:cyan;
+    border-radius: 30px;
+    background-color:chocolate;
+    
+}
+
+body {
+
+    background-image:url(994659.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 100px;
+   
+}
+
+th {
+    color: darkgreen;
+}
+
+tr {
+    color: darkcyan;
+}
+
+label {
+    color:blue;
+}
+
+#fname {
+    color: red;
+}
+
+#lname {
+    color: red;
+}
+Select {
+    color: purple;
+}
+
+table {
+    background-color: pink;
+}
+
+.gg-arrow-down {
+    box-sizing: border-box;
+    position: relative;
+    display: block;
+    transform: scale(var(--ggs,1));
+    width: 22px;
+    height: 22px
+   }
+   
+   .gg-arrow-down::after,
+   .gg-arrow-down::before {
+    content: "";
+    display: block;
+    box-sizing: border-box;
+    position: absolute;
+    bottom: 4px
+   }
+   
+   .gg-arrow-down::after {
+    width: 8px;
+    height: 8px;
+    border-bottom: 2px solid;
+    border-left: 2px solid;
+    transform: rotate(-45deg);
+    left: 7px
+   }
+   
+   .gg-arrow-down::before {
+    width: 2px;
+    height: 16px;
+    left: 10px;
+    background: currentColor
+   } 
